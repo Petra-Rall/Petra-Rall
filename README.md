@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Petra Rall</h1>
+<h1 align="center">Hi 👋, I'm Sumaiya</h1>
 <h3 align="center">A CSE student from Bangladesh</h3>
 
 - 📫 How to reach me **sumaiya.tabassum.csecu@gmail.com**
