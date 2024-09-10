@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sumaiya</h1>
 <h3 align="center">A CSE student from Bangladesh</h3>
 
+- 🌱 I’m currently learning **Java, Python**
 - 📫 How to reach me **sumaiya.tabassum.csecu@gmail.com**
+- ⚡ Fun fact **I like carrots**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
